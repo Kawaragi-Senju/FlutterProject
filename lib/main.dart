@@ -8,7 +8,7 @@ void main() {
       backgroundColor: Colors.green,
       appBar: AppBar(
         backgroundColor: Colors.green,
-        title: Text("GeeksForGeeks"),
+        title: Text("DiceBattle"),
         centerTitle: true,
       ),
       body: Dice(),
